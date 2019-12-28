@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 US-Bikeshare-Data
 This project was a part of Udacity's IoT Software Foundation Nanodegree's Python Programming Chapter.
+||||||| 7bfc13f
+# bikeshare_up
+=======
+>>>>>>> b1b5123e9069f8547fda1934c16bbbed0423a997
 
+<<<<<<< HEAD
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
@@ -24,3 +30,7 @@ Statistics Computed You will learn about bike share use in Chicago, New York Cit
 #4 User info • counts of each user type • counts of each gender (only available for NYC and Chicago) • earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 The Files You will need the three city dataset files: • chicago.csv • new_york_city.csv • washington.csv
+||||||| 7bfc13f
+I did some search throw out the process of completing the project in different websites like Qoura, Stack Overflow and tutorialspoint
+=======
+>>>>>>> b1b5123e9069f8547fda1934c16bbbed0423a997
